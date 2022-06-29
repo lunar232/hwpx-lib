@@ -8,5 +8,7 @@ public class SampleMain {
 
 		String text = HWPXReader.readText("sample/안녕하세요.hwpx");
 		System.out.println(text);
+
+		//테스트
 	}
 }
